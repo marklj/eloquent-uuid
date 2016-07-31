@@ -2,7 +2,7 @@
 
 *This project is experimental and should not be used on real-life applications.*
 
-This is a very simple and unopinionated project that will get you up and running with UUID's within your eloquent models.
+This is a very simple project that will get you up and running with UUID's within your eloquent models.
 
 
 
@@ -21,7 +21,7 @@ This is a very simple and unopinionated project that will get you up and running
 
 ## Database Setup
  
-In your database migration for your model, you should have the uuid filed set up like the following:
+In your database migration for your model, you should have the UUID field set up like the following:
 
 ```php
 <?php
